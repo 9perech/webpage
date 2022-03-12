@@ -1,0 +1,174 @@
+body {
+  background-image: url("C:/Users/prote/PycharmProjects/CSS - My Site/images/wallpaper.jpg");
+  background-repeat: repeat;
+  margin: 0;
+  text-align: center;
+  font-family: 'Lilita One', cursive;
+  font-size: 100%;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Mochiy Pop P One', sans-serif;
+  color: #06FF00;
+  line-height: 1;
+  -webkit-text-stroke: 1px black;
+  padding-bottom: 10px;
+}
+
+h2 {
+  margin: 150px auto 0 auto;
+  color: #06FF00;
+  font-family: 'Creepster', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+  -webkit-text-stroke: 1px black;
+}
+
+h3 {
+  color: #06FF00;
+  font-family: 'Creepster', cursive;
+  -webkit-text-stroke: 1px black;
+}
+
+p {
+  color: #06FF00;
+  line-height: 2;
+  -webkit-text-stroke: 1px black;
+}
+
+hr {
+  border: dotted #06FF00 6px;
+  border-bottom: none;
+  width: 30%;
+  margin: 100px auto;
+  color: white;
+}
+
+a{
+  color: #06FF00;
+  font-family: 'Creepster', cursive;
+  -webkit-text-stroke: 1px black;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: black;
+  padding: 50px 0 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.rick_with_portal_gun {
+  position: absolute;
+  right: 30%;
+  top: 70%;
+  width: 14%;
+}
+
+.portal_1 {
+  position: absolute;
+  left: 30%;
+  top: 70%;
+  width: 10%;
+}
+
+.me_hi {
+  position: absolute;
+  left: 32%;
+  top: 77%;
+  width: 5%;
+  border-radius: 30%;
+}
+
+.cucumber_1 {
+  position: absolute;
+  left: 15%;
+  top: 10%;
+  width: 10%;
+}
+
+.portal_gun {
+  position: absolute;
+  right: 10%;
+  top: 90%;
+  width: 10%;
+}
+
+.rick_typing {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.rick_and_morty_portal_1 {
+  width: 70%;
+  margin: 30px 30px 30px 30px;
+}
+
+.btn {
+  background: #4fd934;
+  background-image: -webkit-linear-gradient(top, #4fd934, #56b82c);
+  background-image: -moz-linear-gradient(top, #4fd934, #56b82c);
+  background-image: -ms-linear-gradient(top, #4fd934, #56b82c);
+  background-image: -o-linear-gradient(top, #4fd934, #56b82c);
+  background-image: linear-gradient(to bottom, #4fd934, #56b82c);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: 'Creepster', cursive;
+  color: #ffffff;
+  font-size: 23px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #affc3c;
+  background-image: -webkit-linear-gradient(top, #affc3c, #9fd934);
+  background-image: -moz-linear-gradient(top, #affc3c, #9fd934);
+  background-image: -ms-linear-gradient(top, #affc3c, #9fd934);
+  background-image: -o-linear-gradient(top, #affc3c, #9fd934);
+  background-image: linear-gradient(to bottom, #affc3c, #9fd934);
+  text-decoration: none;
+}
