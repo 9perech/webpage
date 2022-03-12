@@ -146,6 +146,13 @@ a:hover {
   margin: 30px 30px 30px 30px;
 }
 
+.me_in_space {
+  position: absolute;
+  left: 30%;
+  bottom: : 10%;
+  width: 10%;
+}
+
 .btn {
   background: #4fd934;
   background-image: -webkit-linear-gradient(top, #4fd934, #56b82c);
